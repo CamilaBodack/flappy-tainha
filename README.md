@@ -7,6 +7,11 @@ A flappy-bird like game about a wild tainha trying to survive
 Its a well-known fish on the Brazilian coast
 
 # How to play ?
+
+- http://flappy-tainha.camilabodack.com/
+
+Or:
+
 1. Clone this repository
 2. Open flappy.html with a browser (tested with firefox and chrome)
 3. Use SPACE to jump over obstacles.
