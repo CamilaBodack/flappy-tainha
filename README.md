@@ -8,7 +8,7 @@ Its a well-known fish on the Brazilian coast
 
 # How to play ?
 
-- http://flappy-tainha.camilabodack.com/
+- https://camilabodack.github.io/flappy-tainha/
 
 Or:
 
