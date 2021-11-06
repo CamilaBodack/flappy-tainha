@@ -16,8 +16,6 @@ Or:
 2. Open flappy.html with a browser (tested with firefox and chrome)
 3. Use SPACE to jump over obstacles.
 
-![flappy-tainha](flappy/imgs/flappy_tainha.png)
-
 ## References:
 
 Background image Artwork created by Luis Zuno (@ansimuz)
